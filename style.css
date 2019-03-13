@@ -1,0 +1,263 @@
+body
+{
+	background-color: #fcfcfc;
+	font-size: 16px;
+}
+
+.container
+{
+	width:1000px;
+	margin: 0px auto;
+}
+
+
+.part
+{
+	border-top: 2px solid black;
+	min-height: 100px;
+}
+
+.header
+{
+	height: 30px;
+	margin-bottom: 20px;
+}
+
+.head1
+{
+	font-size: 24px;
+	display: inline-block;
+	font-family: arial;
+	font-weight: 700;
+	padding: 5px;
+}
+
+.head2
+{
+	font-size: 14px;
+	display: inline-block;
+	font-family: arial;
+	font-weight: 700;
+	width: 80%;
+	padding: 5px;
+	padding-left: 50px;
+
+}
+
+.up h1
+{
+	font-size: 26px;
+}
+
+.title
+{
+	margin: 0px auto;
+	padding: 2.5px;
+	padding-left: 60px;
+	font-family: arial;
+	font-size: 24px;
+	text-align: center;
+	font-weight: 700;
+	width: 80%;
+	padding: 50px;
+}
+
+.a4
+{
+	display: inline-block;
+	font-weight: 400;
+	font-size: 16px;
+	text-align: left;
+}
+
+{
+	display: none;
+}
+
+input
+{
+	margin: 2px;
+}
+
+legend
+{
+	font-family: arial;
+	font-size: 14px;
+}
+
+input[type="text"], input[type="tel"]{
+	background-color: #eee;
+	color: #2d2d2d;
+	border: 1px dotted #ccc;
+	font-size: 15px;
+	box-sizing: border-box;
+	outline: none;
+	width: 90%;
+	min-width: 80px;
+}
+
+.inputleft{
+	float:left;
+	padding-left: 10%;
+}
+
+.inputright{
+	float: right;
+	padding-right: 10%;
+}
+
+input[type="text"]:focus, input[type="tel"]:focus
+{
+	box-shadow: 0px 0px 5px 2px rgba(200,200,200,0.9);
+	border: 0.5px solid #252b3d;
+	background-color: #c7c9ffcc;
+	color: #000;
+}
+
+.part2
+{
+	border: 0.5px solid black;
+	background-color: rgb(228, 228, 228);
+	padding: 2.5px;
+}
+
+.part tr
+{
+	border: 0.5px solid #bbb;
+}
+
+.part2 table
+{
+	border-collapse: collapse;
+}
+
+.l
+{
+	vertical-align: top;
+	text-align: left;
+	width: 15%;
+}
+#rok{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.p
+{
+	vertical-align: top;
+	text-align: left;
+	width: 85%;
+	margin: 0 auto;
+}
+
+.part3
+{
+	background-color: rgb(228, 228, 228);
+	border:1px solid black;
+	border-top: 5px solid black;
+	margin: 2.5px;
+	min-height: 100px;
+}
+
+.part3 span
+{
+	padding-left: 50px;
+}
+
+h1
+{
+	margin: 0px;
+	padding: 2.5px;
+	padding-left: 10px;
+	font-family: arial;
+	font-size: 20px;
+}
+
+.pola
+{
+	margin-left: 25px;
+}
+
+.pole
+{
+	border: 0.5px solid black;
+	min-height: 40px;
+	min-width: 100px;
+	margin: 0px;
+	padding: 0px;
+	background-color:#fff;
+}
+
+.a1
+{
+	float: left;
+	width: 70%;
+	box-sizing: border-box;
+}
+
+.a2 , .a3
+{
+	background-color: #aaa;
+	float: left;
+	width: 15%;
+	box-sizing: border-box;
+}
+
+.a15 , .a16 , .a17 , .a18 , .a19 , .a20 , .a21 , .a22 , .a23 , .a24 , .a25 , .a26 , .a27
+{
+	float: left;
+	box-sizing: border-box;
+}
+
+.a15
+{
+	width:40%;
+}
+
+.a16 , .a17
+{
+	width:30%;
+}
+
+.a18
+{
+	width:25%;
+}
+
+.a19
+{
+	width:40%;
+}
+
+.a20
+{
+	width:35%;
+}
+
+.a21
+{
+	width:30%;
+}
+
+.a22
+{
+	width:49.2%;
+}
+
+.a23 , .a24
+{
+	width:10%;
+}
+
+.a25 , .a27
+{
+	width:40%;
+}
+
+.a26
+{
+	width:20%;
+}
+
+input[type="radio"] {
+	margin: 5px;
+}
